@@ -23,7 +23,7 @@ title: 关于我
 
 <p>
 
-如果有问题，欢迎在 <a target="-blank" herf='http://www.zhihu.com/people/tian-kong-67-78-93/'>知乎</a> 上与我讨论，谢谢。
+如果有问题，欢迎在 <a target="-blank" href='http://www.zhihu.com/people/tian-kong-67-78-93/'>知乎</a> 上与我讨论，谢谢。
 <p>
 
 <p>
@@ -37,6 +37,3 @@ title: 关于我
 
 <p>
 email：herryeric@sjtu.edu.cn
-
-
-{% include comments.html %}
