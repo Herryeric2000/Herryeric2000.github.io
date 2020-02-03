@@ -15,7 +15,7 @@ title: 关于我
 
 <p>
 
-非常感谢Leopardpan提供的模板，博客源码在 <a target="_blank" href='https://github.com/leopardpan/leopardpan.github.io/'>Github</a> 上，别忘了给原作者点赞。
+非常感谢 Leopardpan 提供的模板，博客源码在 <a target="_blank" href='https://github.com/leopardpan/leopardpan.github.io/'>Github</a> 上，别忘了给原作者点赞。
 
 <p>
 
