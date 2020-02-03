@@ -1,40 +1,38 @@
 # Basic
-title: 潘柏信
-subtitle: 个人站
+title: 王杰
+subtitle: 个人空间
 description: 欢迎来到我的个人站~
 # 头像里面的标题
-avatarTitle: leopardpan
+avatarTitle: KuaiLeJieJie
 # 头像里面的描述
-avatarDesc: iOS / 机器学习
-url: "http://baixin.io"
+avatarDesc: Physics / Psychology
+url: "http://kuailejiejie.site/"
 
 # Comment
 comment:
-    disqus: leopard
+    #disqus: leopard
     # gitment: xxx // 需要修改 comments.html中的client_id和client_secret
     # uyan: 2143225  # 有言id,登录有言官网申请
 
 # Social
 social:
-    weibo: 5366874726 
-    github: leopardpan
+    #weibo: 5366874726
+    #github: leopardpan
     # zhihu: panpanleopard
     # juejin: xxx
-    jianshu: 2ada30d8d0f7
-    # twitter: 
-    mail: leopardpan@icloud.com
+    #jianshu: 2ada30d8d0f7
+    # twitter:
+    mail: herryeric@sjtu.edu.cn
 
 
-# 百度统计 
-# 使用博客模板请去掉或者更换 id 
+# 百度统计
+# 使用博客模板请去掉或者更换 id
 baidu:
-    id: xxxx  
+    id: 6a9d978b01d2f028bd0fd9893a29b9f4
 
 # Google Analytics
 # 使用博客模板请去掉或者更换 id
-ga:
-    id: xxxx  
-    host: auto  
+#ga:
 
 
 # 《----------------- 上面的信息修改成你自己的 ---------------------------》
@@ -62,14 +60,12 @@ blog_button:
 
 # Navigation buttons in the front page.s
 nav:
-    - {title: 所有文章, description: archive, url: '/archive'}   
-    - {title: 标签, description: tags, url: '/tags'}      
-    - {title: 关于我, description: about, url: '/about'}      
-    
+    - {title: 所有文章, description: archive, url: '/archive'}
+    - {title: 标签, description: tags, url: '/tags'}
+    - {title: 关于我, description: about, url: '/about'}
+
 
 # Pagination
 gems: [jekyll-paginate,jekyll-sitemap]
 paginate: 20
 paginate_path: "page/:num/"
-
-
