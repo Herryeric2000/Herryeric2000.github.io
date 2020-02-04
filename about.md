@@ -36,4 +36,4 @@ title: 关于我
 <h3> 如何联系我 </h3>  
 
 <p>
-email：herryeric@sjtu.edu.cn
+email：herryeric12@gmail.com
